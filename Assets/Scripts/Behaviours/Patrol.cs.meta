@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8390d8006d6405248b846150749b6039
+timeCreated: 1509550886
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _suspicionParticleSystemPrefab: {fileID: 198063561772627070, guid: 5faa8cfbd4651574caa3c963aa8d4792,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

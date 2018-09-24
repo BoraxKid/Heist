@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9676c5219a19708448bff86c4429468d
+timeCreated: 1511899018
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _variables: {fileID: 11400000, guid: 0f26c30aa678d96459b8583449f0fdd5, type: 2}
+  - _showInteractUI: {fileID: 11400000, guid: 3e1f6dc7854a17440bc72ad70fc9f356, type: 2}
+  - _hideInteractUI: {fileID: 11400000, guid: 53c90dbaff650d7409ea6355afb43ef3, type: 2}
+  - _startInteractUI: {fileID: 11400000, guid: a21ae2a1ea79bfd42b87770f5f9a250b, type: 2}
+  - _updateInteractUI: {fileID: 11400000, guid: c25c9a2b48a53f04ba26cbd4a0dc6eb3,
+      type: 2}
+  - _endInteractUI: {fileID: 11400000, guid: 4ae50047d40b8af4ba1a139b2ec06a57, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

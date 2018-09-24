@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c15e49c7c071e9428775a3b64804f8f, type: 3}
+  m_Name: Footstep pack
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 68b6b620fc0d1b04396f556e1cdd87fb, type: 3}
+  - {fileID: 8300000, guid: 599386aea900e1541adbad0d0c31e109, type: 3}
+  - {fileID: 8300000, guid: 2ba0404b82ab2714a8d89c273357625d, type: 3}
+  - {fileID: 8300000, guid: 4345b0ed6da752d448acd1bffb332e96, type: 3}

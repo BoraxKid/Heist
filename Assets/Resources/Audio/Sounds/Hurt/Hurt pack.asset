@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c15e49c7c071e9428775a3b64804f8f, type: 3}
+  m_Name: Hurt pack
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: fd702acdaba150941ba23c126828930c, type: 3}
+  - {fileID: 8300000, guid: 365dc4233dd854742977bb6ececd0f86, type: 3}
+  - {fileID: 8300000, guid: ae188f43ccae91246a51e4acdf45ead4, type: 3}
+  - {fileID: 8300000, guid: c19d66deac3000c42b4c5bb7e4b37ddf, type: 3}
+  - {fileID: 8300000, guid: c10437cfe2713c14ab8aef085987198e, type: 3}

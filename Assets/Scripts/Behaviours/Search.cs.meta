@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4a8cf345034812844a39ba2e0b969687
+timeCreated: 1512414885
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerVariable: {fileID: 11400000, guid: d1da60fef752fbc489f90c05cb9c4390, type: 2}
+  - _suspicionParticleSystemPrefab: {instanceID: 0}
+  - _lostParticleSystemPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
