@@ -30,7 +30,7 @@ public class HideUpperLevels : MonoBehaviour
     private void OnDisable()
     {
         int i = 0;
-        while (i <= this._parents.Count)
+        while (i < this._parents.Count)
         {
             foreach (HideDisplayObject child in this._objectsByLevel[i])
                 child.ChangeState(true, this._changeStateTime.Value);
