@@ -32,7 +32,7 @@ namespace UnityEditor.Rendering.PostProcessing
     {
         public override bool OnGUI(SerializedProperty property, SerializedProperty overrideState, GUIContent title, Attribute attribute)
         {
-            var attr = (MinAttribute)attribute;
+            var attr = (UnityEngine.Rendering.PostProcessing.MinAttribute)attribute;
 
             if (property.propertyType == SerializedPropertyType.Float)
             {
